@@ -19,7 +19,7 @@
 
 on:
   push:
-    branches: ['print_vars']
+    branches: ['TestBranch']
   workflow_dispatch:
 
 env:
